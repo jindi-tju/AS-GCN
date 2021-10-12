@@ -16,7 +16,7 @@ which has been accepted by *ICDM2021*.
 
 Please refer to the code for detailed parameters.
 ## Acknowledgements
-The demo code is implemented based on [BiTe-GCN: A New GCN Architecture via BidirectionalConvolution of Topology and Features on Text-Rich Networks (https://arxiv.org/pdf/2010.12157.pdf).
+The demo code is implemented based on [BiTe-GCN: A New GCN Architecture via BidirectionalConvolution of Topology and Features on Text-Rich Networks] (https://arxiv.org/pdf/2010.12157.pdf).
 ## Citing
     @inproceedings{as-gcn,
      title={AS-GCN: Adaptive Semantic Architecture of GraphConvolutional Networks for Text-Rich Networks},
