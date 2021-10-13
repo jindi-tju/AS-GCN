@@ -12,7 +12,7 @@ which has been accepted by *ICDM2021*.
 * DGL
 * PyTorch
 ## Example
-* `python train.py --dataset_str "hep_small" --dataset "data/word_data/hep_small/hep_small.pickle.bin" --out_dim 3 --num_head 1 --epoch 2000 --device cuda:0`
+* `sh train-data-hep_small.sh`
 
 Please refer to the code for detailed parameters.
 ## Acknowledgements
