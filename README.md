@@ -7,10 +7,10 @@ which has been accepted by *ICDM2021*.
 * Python3
 * NumPy
 * SciPy
-* scikit-learn
 * NetworkX
 * DGL
 * PyTorch
+
 ## Example
 `bash train-data-hep_small.sh`
 
