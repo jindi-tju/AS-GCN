@@ -1,6 +1,6 @@
 # AS-GCN
 This repository contains the demo code of the paper:
->[AS-GCN: Adaptive Semantic Architecture of GraphConvolutional Networks for Text-Rich Networks]
+>[AS-GCN: Adaptive Semantic Architecture of GraphConvolutional Networks for Text-Rich Networks]https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/WWW21/129/450f1572-6b1a-11eb-8d84-166a08e17233/OUT/www21-129.pdf
 
 which has been accepted by *ICDM2021*.
 ## Dependencies
